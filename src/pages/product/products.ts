@@ -33,7 +33,7 @@ export const ProductDetails = styled('div', {
   display: 'flex',
   flexDirection: 'column',
 
-  ht: {
+  h1: {
     fontSize: '$2xl',
     color: '$gray300',
   },

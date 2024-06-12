@@ -1,4 +1,4 @@
-import { useRouter } from 'next/router';
+import React from 'react';
 import { ImageContainer, ProductContainer, ProductDetails } from './products';
 import Image from 'next/image';
 import { GetStaticProps } from 'next';
